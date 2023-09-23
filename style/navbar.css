@@ -1,0 +1,16 @@
+header{
+  background-color: #63b9e9;
+}
+.navbar {
+    background-color: #b21872;
+    
+  }
+  
+  .nav-link {
+    font-size: 1.5rem;
+    color: #fff;
+  }
+  
+  .nav-social-media img {
+    width: 30px;
+  }

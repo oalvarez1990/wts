@@ -1,0 +1,66 @@
+/* Estilos para la sección "blog" */
+#blog {
+    background-color: #f7f7f7; /* Cambia el color de fondo según tu preferencia */
+    padding: 40px 0; /* Espaciado interno superior e inferior */
+    text-align: center;
+}
+
+#blog h3 {
+    font-size: 30px; /* Tamaño de fuente del título */
+    color: #253D6B; /* Color del texto del título */
+    margin-bottom: 20px; /* Espaciado inferior del título */
+    border-bottom: 3px solid #D21B10;
+    font-weight: bold;
+}
+
+.contenedor {
+    max-width: 1200px; /* Ancho máximo del contenido */
+    margin: 0 auto; /* Centrar el contenido horizontalmente */
+}
+
+/* Estilos para el carrusel */
+.carousel-inner {
+    background-color: #fff; /* Cambia el color de fondo del carrusel */
+    border-radius: 10px; /* Añade bordes redondeados al carrusel */
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); /* Sombra suave alrededor del carrusel */
+}
+
+.carousel-item {
+    text-align: left; /* Alinea el texto del contenido a la izquierda */
+    padding: 20px; /* Espaciado interno del contenido del carrusel */
+}
+
+.carousel-item img {
+    border-radius: 10px; /* Añade bordes redondeados a las imágenes del carrusel */
+}
+
+.additional-content {
+    margin-top: 20px; /* Espaciado superior del contenido adicional */
+}
+
+.additional-content h2 {
+    font-size: 20px; /* Tamaño de fuente del título adicional */
+    color: #253D6B; /* Color del texto del título adicional */
+    margin-bottom: 10px; /* Espaciado inferior del título adicional */
+    text-align:justify;
+}
+
+.additional-content p {
+    font-size: 16px; /* Tamaño de fuente del texto adicional */
+    color: #777; /* Color del texto adicional */
+    text-align:justify;
+}
+
+.additional-content a {
+    display: inline-block; /* Hacer que el enlace sea un bloque en línea */
+    margin-top: 10px; /* Espaciado superior del enlace */
+    padding: 10px 20px; /* Espaciado interno del enlace */
+    background-color: #ffc107; /* Color de fondo del enlace */
+    color: #fff; /* Color del texto del enlace */
+    text-decoration: none; /* Eliminar subrayado del enlace */
+    border-radius: 5px; /* Añadir bordes redondeados al enlace */
+}
+
+.additional-content a:hover {
+    background-color: #ff9900; /* Cambiar el color de fondo al pasar el mouse por encima */
+}

@@ -1,0 +1,28 @@
+.map_1 {
+  width: 100%;
+  height: 100%;
+  margin: 0 auto;
+  padding: 10px;
+  border: 0;
+  display: block;
+  position: relative;
+  top: 0;
+  left: 0;
+  border: 3px solid #63b9e9;
+}
+
+.mapa {
+  color: #253d6b;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  border-bottom: 2px solid #d21b10;
+}
+
+@media (max-width: 768px) {
+  .map {
+    width: 600px;
+    height: 450px;
+    margin: 0 auto;
+  }
+}

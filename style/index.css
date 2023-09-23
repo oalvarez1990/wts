@@ -1,0 +1,30 @@
+/* Importar archivos css */
+@import url("/style/navbar.css");
+@import url("/style/banner.css");
+@import url("/style/video.css");
+@import url("/style/perfil.css");
+@import url("/style/footer.css");
+@import url("/style/blog.css");
+@import url("/style/mapa.css");
+
+
+/* fuentes de google */
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&family=Open+Sans:wght@300&display=swap");
+
+body {
+  font-family: "Montserrat", sans-serif;
+  font-family: "Open Sans", sans-serif;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/* 
+azul #63B9E9
+rojo #D21B10
+amarillo #FEC900
+azul oscuro  #253D6B
+
+
+*/
+

@@ -1,0 +1,30 @@
+#bienvenidos {
+    margin: 0 auto;
+    background-color: #63b9e9;
+   
+  }
+#bienvenidos .columna-imagen img {
+    margin: 0 auto;
+    
+   
+  }
+  #bienvenidos .columna-descripcion h2 {
+    text-align: justify;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 15px;
+    color: aliceblue;
+  }
+  #bienvenidos .columna-descripcion p {
+    text-align: justify;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+  }
+  #bienvenidos .columna-descripcion .resalto {
+    text-align: justify;
+    font-size: 20px;
+    font-weight: bold;
+    /* padding: 15px; */
+    color: #D21B10;
+  }

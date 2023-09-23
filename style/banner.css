@@ -1,0 +1,11 @@
+#banner img {
+  background-color: #63b9e9;
+  padding: 5px;
+  margin-top: 5px;
+  border-radius: 7px 7px 0 2px;
+
+}
+#banner h2{
+    font-size: 25px;
+}
+
